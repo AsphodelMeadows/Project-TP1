@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<question type="numerical">
+	<name>
+		<text>Demo question à choix multiples</text>
+	</name>
+	<answer fraction="0">
+		<text>23</text>
+		<feedback><text>Huh</text></feedback>
+	</answer>
+</question>
